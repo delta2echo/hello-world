@@ -90,6 +90,8 @@ are created by indenting with 1 tab or 4 spaces
 
 are created with this syntax: "\!\[description](pathfile)"
 
+![example plot](testplot.png?raw=true)
+
 ![example plot](https://drive.google.com/file/d/1fjrSUwM4D04bYxAB7iuCtgSs62DrZXw3/view?usp=sharing "example")
 
 <img class="right" src="https://drive.google.com/file/d/1fjrSUwM4D04bYxAB7iuCtgSs62DrZXw3/view?usp=sharing" alt="example plot">
